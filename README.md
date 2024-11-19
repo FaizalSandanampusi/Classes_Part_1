@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/FaizalSandanampusi/Classes_Part_1/workflows/Python%20Tests/badge.svg?label=passingcolor=greentimestamp=1731998014)
+
 
 # Classes Part 1
 
